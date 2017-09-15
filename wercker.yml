@@ -25,3 +25,4 @@ build:
         code: |
           echo "hello world!"
           pwd
+          ls -la
